@@ -5,11 +5,9 @@ RestAPI Get
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/2.PNG)
 RestAPI Post
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/3.PNG)
-Endpoint Get
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/4.PNG)
-Endpoint Post
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/5.PNG)
-Endpoint Delete
+Endpoint Get
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/6.PNG)
 Endpoint Update
 ![alt text](https://github.com/ClarissaSanindita/ModulArkademy/blob/master/7.PNG)
